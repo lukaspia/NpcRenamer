@@ -1,0 +1,11 @@
+﻿## Interface: 110007
+## Title: NPC Renamer
+## Notes: Pozwala na zmianę nazw NPC w grze
+## Author: Lukas
+## Version: 1.0
+## SavedVariables: NPCRenamerDB, NPCRenamerMissing
+## DefaultState: Enabled
+
+NPCNames.lua
+ZoneNames.lua
+NPCRenamer.lua
